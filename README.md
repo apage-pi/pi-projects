@@ -1,4 +1,5 @@
 # pi-projects
+# This is the full version. This contains every version from full release, beta, alpha, and dev. 
 Raspberry Pi files I created for Python, C#, C, and Scratch
 These will only work on Raspberry Pi OS (Raspian) or RPiOS-Based OSes on RPi4
 You will need also guizero python library for GUI Projects. Some work on micro:bit. You will need mono for the.exe/.cs files. You will need scratch 3.0 for the .sb3 files.
